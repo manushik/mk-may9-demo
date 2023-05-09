@@ -1,0 +1,692 @@
+r_code,region,comm_code,community
+1,Western Region,101,Ghana Nungua
+1,Western Region,102,Elubo
+1,Western Region,103,Elloyin
+1,Western Region,104,Asanda-Bobrama
+1,Western Region,105,Bobrama
+1,Western Region,106,Kikam
+1,Western Region,107,Nkroful
+1,Western Region,108,Anyaano
+1,Western Region,109,Takoradi Gh Commercial Bank
+1,Western Region,110,Takoradi Original Pay All Office
+1,Western Region,111,Effiakuma
+1,Western Region,112,Anaji
+1,Western Region,113,Trabuom
+1,Western Region,114,Akura Kese
+1,Western Region,115,Enso Nyame Ye
+1,Western Region,116,Tintim Hwe
+1,Western Region,117,Tay Akura
+1,Western Region,118,Adum Dominase
+1,Western Region,119,Ayiem
+1,Western Region,120,Huniso
+1,Western Region,121,Prestea
+1,Western Region,122,Abosso
+1,Western Region,123,Huni Valley
+1,Western Region,124,Bompieso
+1,Western Region,125,Adahaso-Ahuntem
+1,Western Region,126,Krofofrom-Ahuntem
+1,Western Region,127,Ntaa Krom-Ahuntam
+1,Western Region,128,Tamakloe Agave
+1,Western Region,129,Kwadwoda-Kwakuboakrom
+1,Western Region,130,Kofi Tuntum-Kwakuboakrom
+1,Western Region,132,Adjakaa
+1,Western Region,133,Appiatse
+1,Western Region,134,Yiwabra
+1,Western Region,135,Sefwi Asawinso
+1,Western Region,136,Nkwadum
+1,Western Region,137,Bibiani
+2,Central Region,138,Cape Coast Reg Library
+2,Central Region,139,Amanful Reg Adminstration
+2,Central Region,140,Amanful Brofoyeduro
+2,Central Region,141,Kotokuraba
+2,Central Region,142,Moree
+2,Central Region,143,Ekumfi Swedru
+2,Central Region,144,Nkusukum Opem
+2,Central Region,145,Twa Da Primary School
+2,Central Region,146,Srafa Kokodo
+2,Central Region,147,Gomoa Nduem
+2,Central Region,148,Gomoa Mumford
+2,Central Region,149,Gomoa Dago
+2,Central Region,150,Gomoa Tarkwa
+2,Central Region,151,Winneba
+2,Central Region,152,Warabeba
+2,Central Region,153,Aberful Amadua
+2,Central Region,154,Anim Akubrifa
+2,Central Region,155,Nkranfo
+2,Central Region,156,Agona Adomekua
+2,Central Region,157,Agona Gyesikrom
+2,Central Region,158,Agona Asafo
+2,Central Region,159,Agona Nkum
+2,Central Region,160,Breman Asikuma
+2,Central Region,161,Abuakuwa
+2,Central Region,162,Ajumako Besease
+2,Central Region,163,Ajumako Ochiso
+2,Central Region,164,Ntonbemu-Nyamebekyere
+2,Central Region,165,Akokora John-Nyamebekyere
+2,Central Region,166,Nyamebekyere
+2,Central Region,167,Assin Endwa
+2,Central Region,168,Assin Andoe
+2,Central Region,169,Gomoa Obokrom
+3,Greater Accra Region,170,Gbegbeyise
+3,Greater Accra Region,171,Mamponse
+3,Greater Accra Region,172,New Mamprobi (Camara)
+3,Greater Accra Region,173,Korle Gonno
+3,Greater Accra Region,174,Abossey Okai
+3,Greater Accra Region,175,Sukura
+3,Greater Accra Region,176,Sahara-Dansoman
+3,Greater Accra Region,177,Ussher Town
+3,Greater Accra Region,178,Usser Town (Gbese)
+3,Greater Accra Region,179,Korle Dudor
+3,Greater Accra Region,180,Adedenkpo
+3,Greater Accra Region,181,Osu
+3,Greater Accra Region,182,Labadi
+3,Greater Accra Region,183,South Teshie
+3,Greater Accra Region,184,Nungua
+3,Greater Accra Region,185,Accra New Town
+3,Greater Accra Region,186,Kotobabi
+3,Greater Accra Region,187,Pig Farm-Kotobabi
+3,Greater Accra Region,188,Abofu-Abelenkpe
+3,Greater Accra Region,189,Kaneshie
+3,Greater Accra Region,190,Darkuman-Bubuashie
+3,Greater Accra Region,191,Doblogonnor
+3,Greater Accra Region,192,Odumprala
+3,Greater Accra Region,193,Tabora No. 3
+3,Greater Accra Region,194,Ashongman Estates
+3,Greater Accra Region,195,Aplaku Sampa Valley
+3,Greater Accra Region,196,Ashaiman-Old Tulako
+3,Greater Accra Region,197,Kpone
+3,Greater Accra Region,198,Sakumono
+3,Greater Accra Region,199,Oyibi
+3,Greater Accra Region,200,Appolonia
+3,Greater Accra Region,201,Tema Community Two
+3,Greater Accra Region,202,Tema Community Five
+3,Greater Accra Region,203,Kpongunor
+3,Greater Accra Region,204,Big Ada
+4,Volta Region,205,Dzodze-Assemblies Of God
+4,Volta Region,206,Dzodze-Ep Primary School
+4,Volta Region,207,Dzodze-Pentecost Church
+4,Volta Region,208,Laklevikope
+4,Volta Region,209,Huive
+4,Volta Region,210,Hedzranawo
+4,Volta Region,211,Adrakp0-Nyekornakpoe
+4,Volta Region,212,Adrakpo Oldtown
+4,Volta Region,213,Amevuvorkofe
+4,Volta Region,214,Seglakope
+4,Volta Region,215,Gakpokofe
+4,Volta Region,216,Adidokpoe
+4,Volta Region,217,Tsetsekpo
+4,Volta Region,218,Mafi Kumase
+4,Volta Region,219,Podoe
+4,Volta Region,220,Hlefi Avenui
+4,Volta Region,221,Taviefe-Avenya
+4,Volta Region,222,Fiogbe Shia
+4,Volta Region,223,Kpando
+4,Volta Region,224,Peki Dzake
+4,Volta Region,225,Anfoega Akukome
+4,Volta Region,226,Hohoe
+4,Volta Region,227,Likpe Kukurantumi
+4,Volta Region,228,Agate
+4,Volta Region,229,Akpafu Todzi
+4,Volta Region,230,Leklebi Duga
+4,Volta Region,231,Bodada
+4,Volta Region,232,Okrakrom
+4,Volta Region,233,Nkwanta
+4,Volta Region,234,Kofinyi-Bakpel
+4,Volta Region,235,Kpassa
+4,Volta Region,236,Damanko
+4,Volta Region,237,Nabu
+4,Volta Region,238,Dodo Pepesu
+5,Eastern Region,239,Subinso
+5,Eastern Region,240,Mamanso
+5,Eastern Region,241,Akim Achiase
+5,Eastern Region,242,Akim Akroso
+5,Eastern Region,243,Akim Aduasa
+5,Eastern Region,244,Asamankese
+5,Eastern Region,245,Krobo Winang
+5,Eastern Region,246,Kade
+5,Eastern Region,247,Suhum
+5,Eastern Region,248,Alema/Brekusu
+5,Eastern Region,249,Kyenku Larbi
+5,Eastern Region,250,Amanase
+5,Eastern Region,251,Pano
+5,Eastern Region,252,Osoroase Krobom
+5,Eastern Region,253,Kwabeng Zongo/Banso
+5,Eastern Region,254,Kadewaso
+5,Eastern Region,255,Pamang
+5,Eastern Region,256,Ankaase E/R
+5,Eastern Region,257,Odumase Begoro
+5,Eastern Region,258,Akumesu West
+5,Eastern Region,259,Mandela Spot Koforidua
+5,Eastern Region,260,Koforidua Betom
+5,Eastern Region,261,Koforidua-Srodae
+5,Eastern Region,262,Koforidua Effiduase
+5,Eastern Region,263,Asikabew Kese
+5,Eastern Region,264,Kwame Ntowkrom
+5,Eastern Region,265,Adoagyiri
+5,Eastern Region,266,Asubotwe
+5,Eastern Region,267,Ankoani
+5,Eastern Region,268,Larteh
+5,Eastern Region,269,Amaganya
+5,Eastern Region,270,Labolabo
+5,Eastern Region,271,Kpong
+5,Eastern Region,272,Oborpa Blorse
+5,Eastern Region,273,Aketebour Manya
+5,Eastern Region,274,Asikuma Junction
+5,Eastern Region,275,Anum
+5,Eastern Region,276,Adiembra
+5,Eastern Region,277,Samanhyia
+5,Eastern Region,278,Nkawkaw
+5,Eastern Region,279,Akwasiho
+5,Eastern Region,280,Hyewohoden
+6,Ashanti Region,281,Kuffour Camp
+6,Ashanti Region,282,Donkoto
+6,Ashanti Region,283,Gyatokrom
+6,Ashanti Region,284,Oseikrom
+6,Ashanti Region,285,Fufuo
+6,Ashanti Region,286,Mpasatia
+6,Ashanti Region,287,Bokankye
+7,Ashanti Region,289,Fawoman
+6,Ashanti Region,290,Aboagyekrom
+6,Ashanti Region,291,Adjamesu
+6,Ashanti Region,292,Yapesa
+6,Ashanti Region,293,Huu
+6,Ashanti Region,294,Homase No.2
+6,Ashanti Region,295,Akrokerri
+6,Ashanti Region,296,Koikrom
+6,Ashanti Region,297,Konongo Odumase Koss
+6,Ashanti Region,298,Bankrongso
+6,Ashanti Region,299,Donyina
+6,Ashanti Region,300,Birago Kurom
+6,Ashanti Region,301,Beposo
+6,Ashanti Region,302,Danyame
+6,Ashanti Region,303,Dwenase
+6,Ashanti Region,304,Kwadaso
+6,Ashanti Region,305,Nyenkyerenease
+6,Ashanti Region,306,Atonso Agogo
+6,Ashanti Region,307,Oyoko Cocoa Shed
+6,Ashanti Region,308,Dompoase
+6,Ashanti Region,309,Gyinyase
+6,Ashanti Region,310,Bomso
+6,Ashanti Region,311,Akorem
+6,Ashanti Region,312,Asokwa Sabat Motors
+6,Ashanti Region,313,Asokwa
+6,Ashanti Region,314,Asafo
+6,Ashanti Region,315,Ashanti Newtown
+6,Ashanti Region,316,New Tafo
+6,Ashanti Region,317,Kronom
+6,Ashanti Region,318,Old Tafo
+6,Ashanti Region,319,Buokrom Estate
+6,Ashanti Region,320,Pankrono
+6,Ashanti Region,321,Ankaase
+6,Ashanti Region,322,Kenyasi
+6,Ashanti Region,323,Akwamu Abira
+6,Ashanti Region,324,Bronkrong (Kronom Afrancho)
+6,Ashanti Region,325,Aboabogya
+6,Ashanti Region,326,Jamasi
+6,Ashanti Region,327,Akrofonso
+6,Ashanti Region,328,Effiduase
+6,Ashanti Region,329,Aburaa
+6,Ashanti Region,330,Asuogya Kwabena Dapaah
+6,Ashanti Region,331,Winnamda
+6,Ashanti Region,332,Azorke
+6,Ashanti Region,333,Mamprusi
+6,Ashanti Region,334,Oyoko
+6,Ashanti Region,335,Kyeiase
+6,Ashanti Region,336,Nsuta
+6,Ashanti Region,337,Offinso Antoa
+6,Ashanti Region,338,Kokote
+6,Ashanti Region,339,Offinso Old Town
+6,Ashanti Region,340,Maase
+6,Ashanti Region,341,Mpasaso No.1
+7,Brong Ahafo Region,342,Aglagokrom
+7,Brong Ahafo Region,343,Manukrom No.1
+7,Brong Ahafo Region,344,Berekum No.2
+7,Brong Ahafo Region,345,Jerusalem
+7,Brong Ahafo Region,346,Goaso-Abotanso
+7,Brong Ahafo Region,347,Goaso-Aheboboano
+7,Brong Ahafo Region,348,Kukuom
+7,Brong Ahafo Region,349,Fawohoyeden
+7,Brong Ahafo Region,350,Hwediem
+7,Brong Ahafo Region,351,Gyedu
+7,Brong Ahafo Region,352,Yamfo
+7,Brong Ahafo Region,353,Sunyani-Dominase
+7,Brong Ahafo Region,354,Sunyani-Area One
+7,Brong Ahafo Region,355,Abronye
+7,Brong Ahafo Region,356,Aboabo No. 2
+7,Brong Ahafo Region,357,Baano No.3
+7,Brong Ahafo Region,358,Adamsu
+7,Brong Ahafo Region,359,Goka
+7,Brong Ahafo Region,360,Baano No.1
+7,Brong Ahafo Region,361,Wenchi
+7,Brong Ahafo Region,362,Banda Boase
+7,Brong Ahafo Region,363,Nsawkaw
+7,Brong Ahafo Region,364,Banda Ahenkro
+7,Brong Ahafo Region,365,Fiaso
+7,Brong Ahafo Region,366,Nkwabeng-Adwoa Nkansah'S Hse
+7,Brong Ahafo Region,367,Nkwabeng-Akyiase B
+7,Brong Ahafo Region,368,Yabraso
+7,Brong Ahafo Region,369,Nyabea
+7,Brong Ahafo Region,370,Pamdu New
+7,Brong Ahafo Region,371,Nante
+7,Brong Ahafo Region,372,Atebubu
+7,Brong Ahafo Region,373,Labun No.1
+9,Upper East Region,374,Sawaba
+7,Brong Ahafo Region,375,Kwame Danso
+7,Brong Ahafo Region,376,Akyeremade Battor
+8,Northern Region,377,Nahari
+8,Northern Region,378,Kabampe
+8,Northern Region,379,Wiae Saboba-Chabo
+8,Northern Region,380,Kitare
+8,Northern Region,381,Kabonwule
+8,Northern Region,382,Gbung
+8,Northern Region,383,Bimbilla
+8,Northern Region,384,Akonsiyili
+8,Northern Region,385,Gbandi-Battor
+8,Northern Region,386,Duuni
+8,Northern Region,387,Walni
+8,Northern Region,388,Charkundo
+8,Northern Region,389,Magini Bikpanjibe
+8,Northern Region,390,Sabare No.1
+8,Northern Region,391,Bakanu-Kudani
+8,Northern Region,392,Mayemam
+8,Northern Region,393,Labsiaka
+8,Northern Region,394,Dulnyado
+8,Northern Region,395,Kulkpanga
+8,Northern Region,396,Gundugolaryili
+8,Northern Region,397,Kpaligu
+8,Northern Region,398,Lunluwa
+8,Northern Region,399,Nabuligu
+8,Northern Region,400,Kumoayili
+8,Northern Region,401,Fazihini
+8,Northern Region,402,Nyoglo
+8,Northern Region,403,Nantong
+8,Northern Region,404,Datoyili
+8,Northern Region,405,Zogbeli Lamakara
+8,Northern Region,406,Bupiela Bayanwaya
+8,Northern Region,407,Changli
+8,Northern Region,408,Moshie Zongo/Tishigu
+8,Northern Region,409,Nyohini South Sanerigu
+8,Northern Region,410,Nyohini North Sanerigu
+8,Northern Region,411,Sanerigu
+8,Northern Region,412,Saakuba
+8,Northern Region,413,Loagri No.1
+8,Northern Region,414,Tinguri
+8,Northern Region,415,Arigu
+8,Northern Region,416,Kinkangu
+8,Northern Region,417,Nakpanduri
+9,Upper East Region,418,Sandema-Abeleyeri
+9,Upper East Region,419,Gbedema Golluk
+9,Upper East Region,420,Balansa Bagumsa
+9,Upper East Region,421,Beo Nayikura
+9,Upper East Region,422,Namoo
+9,Upper East Region,423,Bolgatanga Soe
+9,Upper East Region,424,Gorogo Buuni
+9,Upper East Region,425,Kalbeo Alokobisi
+9,Upper East Region,426,Sakaribisi
+9,Upper East Region,427,Balungu Abienbisi
+9,Upper East Region,428,Ssnit Flat-Tindansobulugu
+9,Upper East Region,429,Duuri
+9,Upper East Region,430,Kukparigu
+9,Upper East Region,431,Kabingo
+9,Upper East Region,432,Kolonaba
+9,Upper East Region,433,Mognori
+10,Upper West Region,434,Limanyiri Kombiehi Wa
+10,Upper West Region,435,Gbungberi
+10,Upper West Region,436,Jingu
+10,Upper West Region,437,Kpongu
+10,Upper West Region,438,Mantare
+10,Upper West Region,439,Sampipa-Kuo
+10,Upper West Region,440,Takpo
+10,Upper West Region,441,Papu
+10,Upper West Region,442,Serekperee
+10,Upper West Region,443,Nyevili
+10,Upper West Region,444,Jeffisi-Bosibelle
+10,Upper West Region,445,Bawiesibelle Kodobelle
+4,Volta Region,446,Tapa-Kototro
+4,Volta Region,447,Tapa-Bompaso
+1,Western Region,3101,Fijai
+1,Western Region,3102,Windy Ridge
+1,Western Region,3103,Kwesimintim
+1,Western Region,3104,Kejabil
+1,Western Region,3105,Kwamekrom
+1,Western Region,3106,Seyerano
+1,Western Region,3107,Adabokrom
+1,Western Region,3108,Jomoro
+1,Western Region,3109,Samereboi
+1,Western Region,3110,Half-Assini
+1,Western Region,3111,New Subri
+1,Western Region,3113,Wasa Japa
+1,Western Region,3114,Nsuaem
+2,Central Region,3201,Apam-Manfam
+2,Central Region,3202,Assin Breku
+2,Central Region,3203,Ayeldu
+2,Central Region,3204,Abura Oborko
+2,Central Region,3205,Akwa Krom
+2,Central Region,3207,Breman Benin
+2,Central Region,3208,Essuekyir
+2,Central Region,3209,Gomoa Dominase
+2,Central Region,3210,Kasoa High Tension
+2,Central Region,3212,Achiase
+2,Central Region,3213,Ankaful
+2,Central Region,3214,Nkanfoa
+2,Central Region,3215,Entsi Fawomanye
+3,Greater Accra Region,3303,Banana Inn (Soko)
+3,Greater Accra Region,3304,Kwashiman
+3,Greater Accra Region,3306,Nima
+3,Greater Accra Region,3308,Scc
+3,Greater Accra Region,3310,Gbawe
+3,Greater Accra Region,3311,Achimota
+3,Greater Accra Region,3312,Sakaman
+3,Greater Accra Region,3313,Abeka
+3,Greater Accra Region,3316,Sapeiman
+3,Greater Accra Region,3322,Dome
+3,Greater Accra Region,3323,Taifa
+3,Greater Accra Region,3325,Madina
+3,Greater Accra Region,3328,Matetse-Dodowa
+3,Greater Accra Region,3337,Tsui Bleo
+3,Greater Accra Region,3343,Ashaiman-Middle East
+3,Greater Accra Region,3346,Ashaiman-Zenu
+3,Greater Accra Region,3349,Ashaiman-Newtown
+3,Greater Accra Region,3352,Community 1-Tema
+3,Greater Accra Region,3358,Gbetsile
+3,Greater Accra Region,3361,Koluedor
+4,Volta Region,3401,Adidome
+4,Volta Region,3402,Akatsi
+4,Volta Region,3405,Tetemali
+4,Volta Region,3406,Ohawu
+4,Volta Region,3409,Ave Dakpa
+4,Volta Region,3410,"Ahoe, Ho"
+4,Volta Region,3414,Jasikan
+4,Volta Region,3415,Worawora
+4,Volta Region,3416,Dambai Zongo
+5,Eastern Region,3501,Nsawam Ayigbe Town/Teshie Town
+5,Eastern Region,3502,Osenase
+5,Eastern Region,3503,Oda New Town Jamaica Towobotom
+5,Eastern Region,3504,Suhum-Obeng Down
+5,Eastern Region,3505,Akim Asafo
+5,Eastern Region,3506,Kyebi Oman
+5,Eastern Region,3509,Koforidua Agavenya
+5,Eastern Region,3510,Yaw Donkor
+5,Eastern Region,3511,Oterkpolu Proper
+5,Eastern Region,3512,Sekesua  Kotokoli
+5,Eastern Region,3513,Nkawkaw Nsuta
+5,Eastern Region,3515,Atibie Kuma
+5,Eastern Region,3517,Awuronsua
+5,Eastern Region,3518,Nkawkaw Tenkyemso
+6,Ashanti Region,3602,Seidi
+6,Ashanti Region,3604,Abuakwa Buaso -Zongo
+5,Eastern Region,3605,Abenase
+6,Ashanti Region,3606,Ejisu
+6,Ashanti Region,3607,Asuoyeboa-Dwom Nkwanta
+6,Ashanti Region,3609,Agyei Mpra
+6,Ashanti Region,3614,Obogu-Dentem
+6,Ashanti Region,3615,Akomadan-New Atwene
+6,Ashanti Region,3617,Ayigya
+6,Ashanti Region,3618,Anwomaso
+6,Ashanti Region,3619,Bonwire
+3,Greater Accra Region,3620,Asebi
+6,Ashanti Region,3622,Bantama
+6,Ashanti Region,3624,Santasi
+7,Brong Ahafo Region,3701,Sunyani-Baakoniaba
+5,Eastern Region,3702,Odumase
+7,Brong Ahafo Region,3703,Sunyani New Town
+7,Brong Ahafo Region,3704,Sunyani Abesim
+7,Brong Ahafo Region,3705,Wemfie
+7,Brong Ahafo Region,3706,Asufufu
+7,Brong Ahafo Region,3708,Amantin Ketekrom
+7,Brong Ahafo Region,3709,New Konkompe
+7,Brong Ahafo Region,3710,Nkranza Adehyeman
+7,Brong Ahafo Region,3711,Techiman Zabo Zongo
+7,Brong Ahafo Region,3712,Jema
+7,Brong Ahafo Region,3713,Dechem
+6,Ashanti Region,3714,Dominase
+8,Northern Region,3801,Gumani
+8,Northern Region,3802,Kalpohini
+8,Northern Region,3803,Vitin
+8,Northern Region,3804,Nakpanzoo
+8,Northern Region,3805,Choggu
+8,Northern Region,3806,Kukuo
+8,Northern Region,3808,Nyohini
+8,Northern Region,3809,Shishegu
+8,Northern Region,3812,Tamalgu
+8,Northern Region,3815,Kpalbe
+8,Northern Region,3817,Wulensi
+8,Northern Region,3818,Balogu
+8,Northern Region,3819,Kamina Barracks
+8,Northern Region,3820,Lameshegu
+8,Northern Region,3827,Sakpa
+8,Northern Region,3829,Grupe
+8,Northern Region,3830,T.Poly Kpalsi
+9,Upper East Region,3909,Binduri
+2,Central Region,4202,Awutu  Breku
+2,Central Region,4203,Assin Praso(Armah Champ)
+2,Central Region,4204,Twifo Praso(Ayekrom Akutuase)
+2,Central Region,4208,Kasoa
+2,Central Region,4209,Akoley Colomba Area
+3,Greater Accra Region,4304,Kwabenya
+4,Volta Region,4401,Hohoe Gbi Kpeme
+4,Volta Region,4402,Dzemeni
+4,Volta Region,4403,Obanda
+4,Volta Region,4404,Dodo Amanfrom
+4,Volta Region,4405,Suife-Agbodakofe
+4,Volta Region,4406,Bator
+4,Volta Region,4408,Krachikura
+5,Eastern Region,4501,Akim Oda(Bankagyei)
+5,Eastern Region,4502,Apinamang
+6,Ashanti Region,4602,Obuasi Nib
+6,Ashanti Region,4603,Akyawkrom
+6,Ashanti Region,4604,Sawua
+6,Ashanti Region,4605,Tanoso Police Station
+6,Ashanti Region,4606,Abrepo-Asubonteng
+6,Ashanti Region,4607,Sabin Akrofrom(Trede)
+6,Ashanti Region,4615,Apemso
+6,Ashanti Region,4616,Fankyenebra
+7,Brong Ahafo Region,4701,Bredi
+7,Brong Ahafo Region,4703,Ntankrom
+8,Northern Region,4806,Dikpung
+9,Upper East Region,4811,Kongo
+10,Upper West Region,31004,Samatugu
+10,Upper West Region,31006,Kusinjan- Tumu
+10,Upper West Region,31008,Seng
+6,Ashanti Region,31010,Abira
+3,Greater Accra Region,31011,Ablekuma
+6,Ashanti Region,31012,Abontem
+2,Central Region,31013,Aboom
+6,Ashanti Region,31014,Abuasu Poly
+3,Greater Accra Region,31015,Achiama
+3,Greater Accra Region,31016,Adabraka
+6,Ashanti Region,31017,Adagya Esereso
+6,Ashanti Region,31018,Adeikrom
+3,Greater Accra Region,31019,Adenta
+6,Ashanti Region,31020,Adiebeba
+3,Greater Accra Region,31021,Adjei Kotoku
+6,Ashanti Region,31022,Adobewura-Aunty Janny
+3,Greater Accra Region,31023,Agbliza Teshie
+3,Greater Accra Region,31024,Agege
+3,Greater Accra Region,31025,Agege Zone 6
+6,Ashanti Region,31026,Agona
+1,Western Region,31027,Agona Amenfi
+7,Brong Ahafo Region,31028,Ahenfi Numer 1
+6,Ashanti Region,31029,Ahinsan
+3,Greater Accra Region,31031,Akoto Lambtey
+5,Eastern Region,31032,Akropong
+6,Ashanti Region,31033,Akwasua-Maase
+6,Ashanti Region,31034,Akwatia Line 19 Ste
+6,Ashanti Region,31035,Amakom
+3,Greater Accra Region,31036,Amamfrom Baron
+5,Eastern Region,31037,Amankwahkrom
+6,Ashanti Region,31038,Amansie Hotel Junction
+3,Greater Accra Region,31039,Amarhia
+3,Greater Accra Region,31040,Amasaman
+5,Eastern Region,31041,Ankyiase
+2,Central Region,31042,Ansahful
+3,Greater Accra Region,31043,Antie Aku
+5,Eastern Region,31044,Anwna Town
+3,Greater Accra Region,31045,Apenkwa
+6,Ashanti Region,31046,Aplabo
+6,Ashanti Region,31047,Asaman/Mpesempese
+5,Eastern Region,31048,Asesewa
+3,Greater Accra Region,31049,Ashiaman
+6,Ashanti Region,31050,Asokore Mampong
+6,Ashanti Region,31051,Asuo Yeboah
+6,Ashanti Region,31052,Asuofia Achiase
+6,Ashanti Region,31053,Asuofia Amanfrom
+6,Ashanti Region,31054,Asuofia-Asaman
+5,Eastern Region,31055,Ata Ne Ata
+7,Brong Ahafo Region,31056,Atekyemu
+5,Eastern Region,31057,Atetsem
+6,Ashanti Region,31058,Atima Deikurom
+6,Ashanti Region,31059,Atonsu Kuwait
+6,Ashanti Region,31060,Atwima Techiman
+6,Ashanti Region,31061,Atwima-Agogo
+3,Greater Accra Region,31062,Awulekwa
+3,Greater Accra Region,31063,Ayetepa
+3,Greater Accra Region,31064,Ayigbe Town
+6,Ashanti Region,31065,Ayinankaso
+7,Brong Ahafo Region,31067,Banda Agbolokame
+7,Brong Ahafo Region,31068,Banda-Agbolokame
+6,Ashanti Region,31069,Bebu
+5,Eastern Region,31070,Begoro-Kroadaso
+6,Ashanti Region,31071,Bekwai Kwabetoso
+7,Brong Ahafo Region,31072,Berekum Senase
+5,Eastern Region,31073,Betoom
+3,Greater Accra Region,31074,Block Factory
+6,Ashanti Region,31075,Bola Kesiem
+1,Western Region,31076,Bonsu
+1,Western Region,31077,Borborbor
+4,Volta Region,31078,Border
+3,Greater Accra Region,31079,Bortianor
+6,Ashanti Region,31080,Bouho
+2,Central Region,31081,Budumburam
+3,Greater Accra Region,31082,Caprice
+3,Greater Accra Region,31083,Chantan 6-6
+1,Western Region,31084,Chapel Hills
+6,Ashanti Region,31085,Chrapatre Estate
+3,Greater Accra Region,31086,Christian Village
+1,Western Region,31087,Container Rubber Site
+6,Ashanti Region,31088,Dagomba
+4,Volta Region,31089,Dapaa Junction
+5,Eastern Region,31090,Dasebre Estate
+3,Greater Accra Region,31091,Dawhenya
+3,Greater Accra Region,31093,Dome-Nwiniso
+6,Ashanti Region,31094,Daaban New Site
+4,Volta Region,31095,Dzesime
+6,Ashanti Region,31096,Ebuoho Sasa
+6,Ashanti Region,31097,Effijuase
+6,Ashanti Region,31098,Ejura Miminaso
+6,Ashanti Region,31099,Elimina Bantama
+3,Greater Accra Region,31100,"Exhibition, Petrolium Do"
+3,Greater Accra Region,31101,Fese
+6,Ashanti Region,31102,Feyiase
+3,Greater Accra Region,31103,Frafraha Animal Research
+6,Ashanti Region,31104,Fumesua
+3,Greater Accra Region,31105,"Gosple Light,Scc Kasoa"
+5,Eastern Region,31106,Havorkope
+6,Ashanti Region,31107,Hia
+1,Western Region,31108,Hinneh-Nkwanta
+1,Western Region,31109,Hintaado
+6,Ashanti Region,31110,Hombenase
+6,Ashanti Region,31111,Huu(Hia Yeya)
+6,Ashanti Region,31112,Ipt
+6,Ashanti Region,31113,Jachie
+3,Greater Accra Region,31114,James Town
+3,Greater Accra Region,31115,Karikari
+3,Greater Accra Region,31117,Katamanso
+6,Ashanti Region,31118,Kayera
+6,Ashanti Region,31119,Kente
+6,Ashanti Region,31120,Kentinkronong
+7,Brong Ahafo Region,31121,Kintampo
+5,Eastern Region,31122,Klu Akwapem
+5,Eastern Region,31123,Koforidua
+6,Ashanti Region,31124,Kokonten
+3,Greater Accra Region,31125,Korle Wonko
+4,Volta Region,31126,Korve
+6,Ashanti Region,31127,Kotei Deduako
+8,Northern Region,31128,Kpigi
+6,Ashanti Region,31129,Kromuase
+6,Ashanti Region,31130,Kumasi-Arhinsan
+6,Ashanti Region,31131,Kumawu Woraso
+6,Ashanti Region,31132,Kuwait Last Stop
+2,Central Region,31133,Kwasi Ansah
+7,Brong Ahafo Region,31134,Kyeremasu
+4,Volta Region,31135,Laklevikorpeh
+5,Eastern Region,31136,Larteh Kubease
+3,Greater Accra Region,31137,Lashibi
+2,Central Region,31138,Mafi Wawasi
+5,Eastern Region,31139,Mamfe-Akuapem
+6,Ashanti Region,31140,Mampong
+3,Greater Accra Region,31141,Manhean
+6,Ashanti Region,31142,Manhyia
+1,Western Region,31143,Manso Jani Krom(Jordan)
+6,Brong Ahafo Region,31144,Manukrom
+3,Greater Accra Region,31145,Manya Jorpanya
+6,Brong Ahafo Region,31146,Mim Dome
+6,Ashanti Region,31147,Moawano
+6,Ashanti Region,31148,Mpehi
+4,Volta Region,31149,Nakoba
+5,Eastern Region,31150,Nankese
+6,Ashanti Region,31151,New Tafo-Krofrom
+3,Greater Accra Region,31152,New York
+5,Eastern Region,31153,Nkawkaw - Nsuta
+5,Eastern Region,31154,Nkawkaw Amanfrom
+5,Eastern Region,31155,Nkonkow
+6,Ashanti Region,31156,Nkwantakese
+3,Greater Accra Region,31157,Nsakina
+6,Ashanti Region,31158,Ntobroso-Achiase
+6,Ashanti Region,31159,Ntonso
+5,Eastern Region,31160,Nuaso
+6,Ashanti Region,31161,Nwieniso No 1
+6,Ashanti Region,31162,Nyinanyiniso
+3,Greater Accra Region,31163,Odorkor
+6,Ashanti Region,31165,"Odumase, Amangro"
+5,Eastern Region,31166,Odumase-Nuaso
+6,Ashanti Region,31167,Offinso Ampame
+6,Ashanti Region,31168,Offinso Dome
+6,Ashanti Region,31169,Offinso Obuasi
+6,Ashanti Region,31170,Offinso Otc
+6,Ashanti Region,31171,Ohwim
+5,Eastern Region,31172,Okanta
+5,Eastern Region,31173,Okroase
+6,Ashanti Region,31174,Oku  Junction
+7,Ashanti Region,31175,Old Edubiase
+4,Volta Region,31176,Olobobi
+6,Ashanti Region,31177,Onwe
+6,Ashanti Region,31179,Oti-Kuweit
+3,Greater Accra Region,31180,Oyarifa
+3,Greater Accra Region,31181,Pantan
+6,Ashanti Region,31182,Patasi
+6,Ashanti Region,31183,Philips Commercia
+6,Ashanti Region,31184,"S-Line New Site,Atonsu"
+2,Central Region,31185,Saltpond
+4,Volta Region,31186,Sampoa
+3,Greater Accra Region,31187,Santa Maria
+6,Ashanti Region,31188,Sasa
+6,Ashanti Region,31189,Saudi Arabia
+1,Western Region,31190,Sentum
+6,Ashanti Region,31191,Sepedoti
+6,Ashanti Region,31192,Sewaba-Kumasi
+6,Ashanti Region,31193,Sofoline
+7,Brong Ahafo Region,31194,Soliboi
+3,Greater Accra Region,31195,South Mcarthy
+3,Greater Accra Region,31196,Spintex
+6,Ashanti Region,31197,Suame-Maakro
+7,Brong Ahafo Region,31198,Sunyani-Fiapre
+7,Brong Ahafo Region,31199,Tadieso
+6,Ashanti Region,31200,Tafo
+8,Northern Region,31201,Tamale
+3,Greater Accra Region,31202,Tantra Hill
+5,Eastern Region,31203,Tease
+3,Greater Accra Region,31204,Tema Community Eighteen
+3,Greater Accra Region,31205,Tema Community Six
+3,Greater Accra Region,31206,Tema Community Three
+5,Eastern Region,31207,Tenkyemso
+3,Greater Accra Region,31208,Teshie
+3,Greater Accra Region,31209,Top Town
+6,Ashanti Region,31210,Truba
+4,Volta Region,31211,Tsorxor
+4,Volta Region,31212,Vuvuikorpe
+3,Greater Accra Region,31213,West Legon
+6,Ashanti Region,31214,Winamda
+7,Ashanti Region,31215,Yaw Owusukrom
+6,Ashanti Region,31216,Zongo
+3,Greater Accra Region,31217,Zongo Laka
